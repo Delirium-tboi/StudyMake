@@ -1,6 +1,6 @@
 Simple project for study makefiles
 =====================
-
+24PTv206 Semin A. D.
 Примеры для обучения использованию make-файлов
 
 _example-1_
